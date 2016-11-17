@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Thread</string>
+    <string name="anr">ANR(Application Not Responsing)</string>
+    <string name="threadclass">thread类实现佷多线程</string>
+    <string name="runnableinterface">Runable接口实现很多线程</string>
+    <string name="timertask">Timer TimerTask实现很多线程</string>
+    <string name="handlermessage">Handler处理器</string>
+    <string name="asynctask">AsyncTask实现异步操作</string>
+
+</resources>
