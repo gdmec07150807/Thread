@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
             Random rm;
 
             public ThreadSample(String tname) {
-                super();
+                super(tname);
                 rm = new Random();
             }
 
